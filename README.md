@@ -6,6 +6,7 @@ I would also like to mention **ajeetraina** whose work, hosted in the repository
 This project would not have been possible without the work of the original creators and all the contributors
 
 **INTRODUCTION**
+
 This project involves creating a fully functional Pet Clinic application, packaged and deployed using Docker. The Pet Clinic application serves as a robust management tool for pet owners, veterinarians, and clinic administrators, enabling seamless operations and efficient management of pet-related information. The application is designed with user-friendly features that enhance the user experience, coupled with a dynamic in-memory database for data storage and retrieval.
 
 **Application Features:**
@@ -33,6 +34,7 @@ This project involves creating a fully functional Pet Clinic application, packag
 This project demonstrates the potential of combining Docker's capabilities with an interactive web application, showcasing expertise in both application development and containerization.
 
 **Prerequisites:**
+
 **Docker:** Make sure Docker is installed on your system. [Docker Installation Guide](https://docs.docker.com/get-docker/)  
 
 **Steps to Set-Up this Docker:**
@@ -57,12 +59,15 @@ You can then access petclinic here: [http://localhost:8080/](http://localhost:80
 **To Create dockerized version:**
 
 **Build a Container:**
+
  docker build -t petclinic-app . -f Dockerfile
 
  **Use Docker Compose**
+ 
   docker-compose up -d
 
   **DONE**
+  
   You can then go to [http://localhost:8080/](http://localhost:8080/) to access this application.
 
   **Reference(s):** [Building PetClinic app using Dockerfile](https://docs.docker.com/guides/java/containerize/)
