@@ -42,11 +42,15 @@ This project demonstrates the potential of combining Docker's capabilities with 
 1. Open Ubuntu Terminal
    
 2. Clone the github repository using the following command in the terminal:
+
    git clone https://github.com/dockersamples/spring-petclinic.git
 
 3. After this run the following commands one after the other:
+
    cd spring-petclinic
+
    ./mvnw package
+
    java -jar target/*.jar
 
 You can then access petclinic here: [http://localhost:8080/](http://localhost:8080/)
