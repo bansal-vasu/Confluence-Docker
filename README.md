@@ -47,11 +47,13 @@ This project demonstrates the potential of combining Docker's capabilities with 
 
 3. After this run the following commands one after the other:
 
-   ```cd spring-petclinic
+   ```
+   cd spring-petclinic
 
    ./mvnw package
 
-   java -jar target/*.jar```
+   java -jar target/*.jar
+   ```
 
 You can then access petclinic here: [http://localhost:8080/](http://localhost:8080/)
 
