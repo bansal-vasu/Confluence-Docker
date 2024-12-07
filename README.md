@@ -1,6 +1,7 @@
 # Project Title: Pet Clinic Dockerized Application
 
 This project is based on the work of **feelgood1987** and **dsyer**, created in collaboration with the **Spring Boot Community** and hosted in the repository [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic). Full credit goes to the original creators and contributors for their efforts in developing and maintaining this exemplary Spring Boot application.
+
 I would also like to mention **ajeetraina** whose work, hosted in the repository [spring-petclinic-docker](https://github.com/dockersamples/spring-petclinic-docker?tab=readme-ov-file) helped me build a dockerized version of the original app. 
 This project would not have been possible without the work of the original creators and all the contributors
 
