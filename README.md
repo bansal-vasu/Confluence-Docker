@@ -78,6 +78,8 @@ You can then access petclinic here: [http://localhost:8080/](http://localhost:80
   
   You can then go to [http://localhost:8080/](http://localhost:8080/) to access this application.
 
+  **Please see the attached video file to see the working of the application.**
+
   **Reference(s):** [Building PetClinic app using Dockerfile](https://docs.docker.com/guides/java/containerize/)
 
 
